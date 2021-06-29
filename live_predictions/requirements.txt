@@ -1,0 +1,5 @@
+numpy==1.16.5
+opencv_python==4.4.0.46
+pyscreenshot==2.3
+PyInstaller==4.2
+tifffile==2020.10.1

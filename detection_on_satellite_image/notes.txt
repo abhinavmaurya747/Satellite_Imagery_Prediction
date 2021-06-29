@@ -1,0 +1,11 @@
+Please run the following command in case of a large satellite image :-
+python main.py -i PATH_TO_IMAGE
+
+In case of a small image run the command :-
+python yolo_object_detection_satellite_image.py -i PATH_TO_IMAGE
+
+the image will be imported and predictions will be run on it.
+
+Output will be in form of two files :-
+annotation - image_name.txt - it will contain all the objects along with its location in the image.
+prediction - image_name.jpg - in the image where objects are present a bounding box is created over it to highlight it.

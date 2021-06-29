@@ -1,0 +1,7 @@
+5 files to be put in the data directory
+
+classes.txt
+obj.data
+obj.names
+yolov3_custom.cfg
+yolov3_custom_3000.weights
